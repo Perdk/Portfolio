@@ -15,6 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um Portfolio simples com alguns projetos com o Objetivo de demonstrar minhas habilidades
+Um Portfolio simples com alguns projetos com o objetivo de demonstrar minhas habilidades
 
 <p>Feito por Max Henrique.</p> 
